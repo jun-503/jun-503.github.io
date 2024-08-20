@@ -2,4 +2,4 @@
 
 ## Portfolio
 
-This is my portfolio built with react and vite.
+This is my portfolio built with react and vite. UI is designed with bootstrap.
